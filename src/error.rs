@@ -1,5 +1,3 @@
-use std::slice::EscapeAscii;
-
 use thiserror::Error;
 
 use solana_program::program_error::ProgramError;
